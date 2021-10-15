@@ -1,0 +1,13 @@
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Mega Email Bomber\Mega Email Bomber\bin\Release\Mega Email Bomber.exe
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Mega Email Bomber\Mega Email Bomber\bin\Release\Mega Email Bomber.pdb
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Mega Email Bomber\Mega Email Bomber\bin\Release\Mega Email Bomber.xml
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Mega Email Bomber\Mega Email Bomber\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Mega Email Bomber\Mega Email Bomber\obj\Release\Mega_Email_Bomber.Form1.resources
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Mega Email Bomber\Mega Email Bomber\obj\Release\Mega_Email_Bomber.Resources.resources
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Mega Email Bomber\Mega Email Bomber\obj\Release\Mega Email Bomber.vbproj.GenerateResource.Cache
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Mega Email Bomber\Mega Email Bomber\obj\Release\Mega Email Bomber.exe
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Mega Email Bomber\Mega Email Bomber\obj\Release\Mega Email Bomber.xml
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Mega Email Bomber\Mega Email Bomber\obj\Release\Mega Email Bomber.pdb
+C:\Users\Adam\Desktop\Projects\Mega Email Bomber\Mega Email Bomber\obj\Release\Mega Email Bomber.exe
+C:\Users\Adam\Desktop\Projects\Mega Email Bomber\Mega Email Bomber\obj\Release\Mega Email Bomber.xml
+C:\Users\Adam\Desktop\Projects\Mega Email Bomber\Mega Email Bomber\obj\Release\Mega Email Bomber.pdb
